@@ -1,6 +1,8 @@
 <user>
 	<name>Muhammadxon</name>
 	<lastname>Najimov</lastname>
-	<nomi>Caltech</nomi>
-	<fakultet>Applied Mathematics</fakultet>
+	<education>
+		<name>Caltech</name>
+		<department>Applied Mathematics</department>
+	</education>
 </user>
