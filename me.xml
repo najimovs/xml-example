@@ -10,4 +10,19 @@
 			<name>303</name>
 		</education>
 	</educations>
+	<relations>
+		<user type="friend">
+			<name>Said</name>
+			<lastname>Nasirov</lastname>
+			<educations>
+				<education type="university">
+					<name>Caltech</name>
+					<department>Applied Mathematics</department>
+				</education>
+				<education type="school">
+					<name>303</name>
+				</education>
+			</educations>
+		</user>
+	</relations>
 </user>
